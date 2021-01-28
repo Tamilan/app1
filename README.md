@@ -1,1 +1,1 @@
-# app1
+# Just the hello world app
